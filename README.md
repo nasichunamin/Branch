@@ -1,2 +1,2 @@
 # Branch
-Tugas Section 2 Version Control and Branch Management (Git)
+Tugas Praktikum Section 2 Version Control and Branch Management (Git)

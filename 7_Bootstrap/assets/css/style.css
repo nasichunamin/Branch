@@ -25,15 +25,15 @@ a:hover{
 }
 .estart {
     color: white;
-    background-color: black;
 }
-.estart p{
-    color: white !important;
-}
-.estart a{
+.estart p, .estart a{
     color: white !important;
     text-decoration: none !important;
 }
 h5{
     font-family: "Philosopher", sans-serif;
+}
+
+.footer {
+    background-color: black !important;
 }
